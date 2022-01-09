@@ -1,11 +1,11 @@
 ![]("C:\Users\jsham\Pictures\rsz_1circle_dragons.png")
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a reposetory for projects that I have done.
 
-{Provide a description of your software}
+I currently have a slight variation on the clasic "Hello World" program, that says "Hello Rexburg" instead.
 
-{Describe your purpose for creating this software.}
+This serves for a begining of my programs, and can be used as a mareker for greater things to come.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -17,10 +17,9 @@
 2. python 3.9.4 64-bit
 3. github
 
-{Describe the programming language that you used}
+I am currently using the python coding language, and plan to use it much more throught out my time as a programer.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [Github](https://github.com/)
 * [Web Site Name](http://url.link.goes.here)
